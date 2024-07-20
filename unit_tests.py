@@ -1,5 +1,5 @@
 import unittest
-from figureSquare.figuresquare import FigureSquare as figSquare
+from figuresquare import FigureSquare as figSquare
 
 
 class TestSquareCalc(unittest.TestCase):

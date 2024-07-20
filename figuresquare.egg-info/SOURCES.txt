@@ -1,8 +1,6 @@
 README.md
 setup.cfg
 setup.py
-figureSquare/__init__.py
-figureSquare/figuresquare.py
 figuresquare.egg-info/PKG-INFO
 figuresquare.egg-info/SOURCES.txt
 figuresquare.egg-info/dependency_links.txt
