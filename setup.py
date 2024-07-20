@@ -16,14 +16,14 @@ setup(
   description='Module for calculating square of figures.',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='https://github.com/Front-Martin/figureSquare',
+  url='https://github.com/Front-Martin/figureSquare/tree/master',
   packages=find_packages(),
   classifiers=[
     'Programming Language :: Python :: 3.12'
   ],
   keywords='figures triangle circle square',
   project_urls={
-    'GitHub': 'https://github.com/Front-Martin/figureSquare'
+    'GitHub': 'https://github.com/Front-Martin/figureSquare/tree/master'
   },
   python_requires='>=3.6'
 )
