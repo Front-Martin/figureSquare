@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: figuresquare
+Version: 0.0.1
+Summary: Module for calculating square of figures.
+Home-page: https://github.com/Front-Martin/figureSquare
+Author: front_martin
+Author-email: martynenko3131@gmail.com
+Project-URL: GitHub, https://github.com/Front-Martin/figureSquare
+Keywords: figures triangle circle square
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+## figureSquare ##
+
+***figureSquare*** is library for calculating square of traingles (based on 3 sides of triangles) and circles (based on radius). 
+
